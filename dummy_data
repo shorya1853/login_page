@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:meals/models/category.dart';
 
+https://github.com/academind/flutter-complete-guide-course-resources/blob/e9ab6d66354986ee3caabfe93ceed25456fec12a/Code%20Snapshots/08%20Navigation/05%20Loading%20Meals%20Data/lib/screens/categories.dart
 const availableCategories = [
   Category(
     id: 'c1',
